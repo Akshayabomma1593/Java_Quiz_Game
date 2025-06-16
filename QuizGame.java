@@ -2,8 +2,8 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.util.*;
-import java.io.*;
+import java.util.list;
+import javax.swing.Timer;
 
 public class QuizGame {
     private JFrame frame;
