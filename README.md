@@ -29,7 +29,8 @@ The **Quiz Game** provides users with a fun way to test their general knowledge.
 
 ## 🧱 Project File Structure
 QuizGameProject/ │
-├── QuizGame.java               # Main class with GUI and game logic ├── Question.java               # Model class representing a quiz question 
+├── QuizGame.java               # Main class with GUI and game logic 
+├── Question.java               # Model class representing a quiz question 
 ├── QuestionLoader.java         # Helper class to load and shuffle questions from the CSV
 ├── gk_questions_550_final.csv  # Dataset with 550+ general knowledge questions 
 └── README.md                   # This documentation file
